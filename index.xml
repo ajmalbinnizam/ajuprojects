@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> MY PORTFOLIO on Ajmal Bin Nizam</title>
+    <link>https://ajmalbinnizam.github.io/ajuprojects1/</link>
+    <description>Recent content in  MY PORTFOLIO on Ajmal Bin Nizam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Apr 2020 11:15:58 -0400</lastBuildDate>
+    
+	<atom:link href="https://ajmalbinnizam.github.io/ajuprojects1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My personal website</title>
+      <link>https://ajmalbinnizam.github.io/ajuprojects1/post/project-3/</link>
+      <pubDate>Mon, 13 Apr 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://ajmalbinnizam.github.io/ajuprojects1/post/project-3/</guid>
+      <description>i&amp;rsquo;m from an non cs background and i thought it would be hard to make website but crossroads really breaked all my myth it was actually pretty easy to make a responive simple website.
+  I learned a lot about html css bootstrap and javascript,from web desiging challenge from crossroads youtube channel,
+  But with julio codes youtube tutorial i started to make a website of my dreams.</description>
+    </item>
+    
+    <item>
+      <title>Data science salary estimator</title>
+      <link>https://ajmalbinnizam.github.io/ajuprojects1/post/project-1/</link>
+      <pubDate>Mon, 09 Mar 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://ajmalbinnizam.github.io/ajuprojects1/post/project-1/</guid>
+      <description>Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job. Scraped over 1000 job descriptions from glassdoor using python and selenium Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.</description>
+    </item>
+    
+    <item>
+      <title>Employee Absenteeism</title>
+      <link>https://ajmalbinnizam.github.io/ajuprojects1/post/project-2/</link>
+      <pubDate>Thu, 09 Jan 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://ajmalbinnizam.github.io/ajuprojects1/post/project-2/</guid>
+      <description>This was my first poject in data sciene it took me approx about two month to complete this udemy course, but it was worth the time i studied my important facts and shortcut to quickly understand the data science whole working part.
+Currently, organizations are seeking to find the main causes behind absence. This subject has been studied before decades form a different perspective.
+THE MAIN OBJECTIVE IS TO FIND 120 EMPLOYEES ABSENTEEISM FACTORS BASED ON DATA ANALYSIS</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://ajmalbinnizam.github.io/ajuprojects1/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ajmalbinnizam.github.io/ajuprojects1/contact/</guid>
+      <description>Please feel free to contact me it&amp;rsquo;s always free and open, i will reach you ASAP:)
+Your Name Email Address An email address is required.  Message   </description>
+    </item>
+    
+  </channel>
+</rss>
