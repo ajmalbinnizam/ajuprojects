@@ -11,4 +11,4 @@
 
 checkout my website https://ajmalbinnizam.github.io/ajuprojects/
 
-please do follow me and give me a star 
+please do follow me and give me a star :blush:
