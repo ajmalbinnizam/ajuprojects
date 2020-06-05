@@ -9,4 +9,5 @@ done through hugo(fastest webframework)using kenjee youtube channel,if you are i
 
 
 
-please do follow and give me a star
+checkout my website https://ajmalbinnizam.github.io/ajuprojects/
+please do follow me and give me a star 
