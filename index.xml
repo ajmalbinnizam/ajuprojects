@@ -6,7 +6,7 @@
     <description>Recent content in  MY PORTFOLIO on Ajmal Bin Nizam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Apr 2020 11:15:58 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2020 11:15:58 -0400</lastBuildDate>
     
 	<atom:link href="https://ajmalbinnizam.github.io/ajuprojects1/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>My personal website</title>
       <link>https://ajmalbinnizam.github.io/ajuprojects1/post/project-3/</link>
-      <pubDate>Mon, 13 Apr 2020 11:15:58 -0400</pubDate>
+      <pubDate>Fri, 15 May 2020 11:15:58 -0400</pubDate>
       
       <guid>https://ajmalbinnizam.github.io/ajuprojects1/post/project-3/</guid>
       <description>i&amp;rsquo;m from an non cs background and i thought it would be hard to make website but crossroads really breaked all my myth it was actually pretty easy to make a responive simple website.
@@ -23,12 +23,21 @@
     </item>
     
     <item>
+      <title>CORONAGO Game</title>
+      <link>https://ajmalbinnizam.github.io/ajuprojects1/post/project-4/</link>
+      <pubDate>Mon, 20 Apr 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://ajmalbinnizam.github.io/ajuprojects1/post/project-4/</guid>
+      <description>I was so bored during quarentine and think about my childhood dreams and one was making my own game. I learnt a lot of python through many tutorials and completed two nptel courses and i was looking forward to do a project and the pygame concept shook me. I just modified simple space invader to my own styled corona game using freecodecamp youtube video  checkout my instagram for more info 😍</description>
+    </item>
+    
+    <item>
       <title>Data science salary estimator</title>
       <link>https://ajmalbinnizam.github.io/ajuprojects1/post/project-1/</link>
       <pubDate>Mon, 09 Mar 2020 10:58:08 -0400</pubDate>
       
       <guid>https://ajmalbinnizam.github.io/ajuprojects1/post/project-1/</guid>
-      <description>Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job. Scraped over 1000 job descriptions from glassdoor using python and selenium Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.</description>
+      <description>Created a tool that estimates data science salaries to help data scientists negotiate their income when they get a job. Scraped over 1000 job descriptions from glassdoor using python and selenium Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. Built a client facing API using flask        Link to github repository</description>
     </item>
     
     <item>
