@@ -9,6 +9,7 @@
 
 
 
+checkout the website i created using hugo https://ajmalbinnizam.github.io/ajuprojects1/
 
 checkout my website https://ajmalbinnizam.github.io/ajmalbinnizam/
 
