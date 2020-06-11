@@ -10,6 +10,6 @@
 
 
 
-checkout my website https://ajmalbinnizam.github.io/ajuprojects/
+checkout my website https://ajmalbinnizam.github.io/ajmalbinnizam/
 
 please do follow me and give me a :star: :blush:
