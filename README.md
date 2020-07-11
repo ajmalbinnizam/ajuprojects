@@ -9,8 +9,8 @@
 
 
 
-checkout the website i created using hugo https://ajmalbinnizam.github.io/ajuprojects1/
+checkout the website i created using hugo https://ajmalbinnizam.github.io/ajuprojects/
 
-checkout my website https://ajmalbinnizam.github.io/ajmalbinnizam/
+checkout my website https://ajmalbinnizam.github.io/
 
 please do follow me and give me a :star: :blush:
